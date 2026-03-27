@@ -1,0 +1,17 @@
+date,product,category,revenue,units,region
+2024-01-05,Web Scraper,Automation,1200,3,LATAM
+2024-01-12,PDF Extractor,AI,800,2,Europe
+2024-01-18,Telegram Bot,Automation,500,1,LATAM
+2024-01-25,API Integration,Backend,2200,2,US
+2024-02-03,Web Scraper,Automation,1800,4,US
+2024-02-14,API Integration,Backend,2200,2,Europe
+2024-02-20,PDF Extractor,AI,400,1,LATAM
+2024-02-28,Telegram Bot,Automation,900,2,US
+2024-03-05,Web Scraper,Automation,900,2,Europe
+2024-03-10,API Integration,Backend,3100,3,US
+2024-03-15,Telegram Bot,Automation,1500,3,LATAM
+2024-03-22,PDF Extractor,AI,1200,3,Europe
+2024-04-02,API Integration,Backend,2800,3,US
+2024-04-10,Web Scraper,Automation,600,1,LATAM
+2024-04-18,Telegram Bot,Automation,2000,4,Europe
+2024-04-25,PDF Extractor,AI,750,2,US
